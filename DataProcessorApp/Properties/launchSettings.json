@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataProcessorApp": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\A1.TXT .\\A1.output.TXT"
+    }
+  }
+}
